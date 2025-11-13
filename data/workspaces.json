@@ -1,0 +1,54 @@
+{
+    "workspaces": [
+        {
+            "id": "1d245a42-c221-4171-a55e-d3ff2a9623e6",
+            "user_id": "6dcdb72f-c24a-4ff8-a764-f33a95217028",
+            "name": "PopCap",
+            "description": "Nose xd",
+            "status": "running",
+            "security_level": "low",
+            "vulnerabilities": [
+                "sql_injection",
+                "xss",
+                "csrf",
+                "file_upload",
+                "lfi",
+                "command_injection"
+            ],
+            "created_at": "2025-11-11 14:32:09",
+            "url": null,
+            "started_at": "2025-11-11 15:42:10",
+            "stopped_at": "2025-11-11 15:37:30"
+        },
+        {
+            "id": "abff26b9-f758-47b3-83f4-4e6507362e63",
+            "user_id": "6dcdb72f-c24a-4ff8-a764-f33a95217028",
+            "name": "Yosekawai",
+            "description": "Yosekawai xd",
+            "status": "running",
+            "security_level": "low",
+            "vulnerabilities": [
+                "sql_injection",
+                "xss",
+                "csrf",
+                "file_upload",
+                "lfi",
+                "command_injection"
+            ],
+            "created_at": "2025-11-11 17:08:57",
+            "url": null,
+            "started_at": "2025-11-11 17:09:14"
+        },
+        {
+            "id": "f70f37a1-a9fd-4ec2-ad1b-e2c18f4c9f56",
+            "user_id": "d11e5651-cd71-42c2-92ff-049faa2fd73a",
+            "name": "sourcdevservices",
+            "description": "Nose xd",
+            "status": "stopped",
+            "security_level": "medium",
+            "vulnerabilities": [],
+            "created_at": "2025-11-12 15:59:04",
+            "url": null
+        }
+    ]
+}

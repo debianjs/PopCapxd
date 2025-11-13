@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "id": "6dcdb72f-c24a-4ff8-a764-f33a95217028",
+            "username": "DeltaByte",
+            "password": "$2y$10$qfnUKDQzJHPoX7wzm8H2LumqCa9.rYHfjQoFwq6zHqISBqLiwrAeO",
+            "created_at": "2025-11-11 14:31:31"
+        },
+        {
+            "id": "bf472faa-2b84-49bf-b437-707936e6117c",
+            "username": "nekyb",
+            "email": "",
+            "oauth_provider": "github",
+            "oauth_id": 236149765,
+            "avatar": "https:\/\/avatars.githubusercontent.com\/u\/236149765?v=4",
+            "name": "nekyb",
+            "created_at": "2025-11-11 19:04:00",
+            "last_login": "2025-11-11 19:04:00"
+        },
+        {
+            "id": "d11e5651-cd71-42c2-92ff-049faa2fd73a",
+            "username": "debianjs",
+            "email": "",
+            "oauth_provider": "github",
+            "oauth_id": 232968623,
+            "avatar": "https:\/\/avatars.githubusercontent.com\/u\/232968623?v=4",
+            "name": "Debian",
+            "created_at": "2025-11-11 20:54:01",
+            "last_login": "2025-11-12 15:57:15"
+        }
+    ]
+}
